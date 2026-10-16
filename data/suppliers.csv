@@ -1,0 +1,16 @@
+﻿supplier_id,supplier_name,category,governorate,phone,email,payment_terms,status
+SUP-001,Demo Supplier 01 Equipment,Machinery,Fayoum,+201170000001,demo.supplier01@example.test,30 days,Active
+SUP-002,Demo Supplier 02 Parts,Machinery,Giza,+201170000002,demo.supplier02@example.test,30 days,Active
+SUP-003,Demo Supplier 03 Equipment,Lubricants,Sharqia,+201170000003,demo.supplier03@example.test,30 days,Active
+SUP-004,Demo Supplier 04 Logistics,Spares,Beni Suef,+201170000004,demo.supplier04@example.test,60 days,Active
+SUP-005,Demo Supplier 05 Logistics,Lubricants,Gharbia,+201170000005,demo.supplier05@example.test,Cash on delivery,Active
+SUP-006,Demo Supplier 06 Hydraulics,Machinery,Beheira,+201170000006,demo.supplier06@example.test,Advance,Active
+SUP-007,Demo Supplier 07 Parts,Machinery,Kafr El Sheikh,+201170000007,demo.supplier07@example.test,Advance,Active
+SUP-008,Demo Supplier 08 Equipment,Machinery,Kafr El Sheikh,+201170000008,demo.supplier08@example.test,Advance,Active
+SUP-009,Demo Supplier 09 Logistics,Machinery,Gharbia,+201170000009,demo.supplier09@example.test,60 days,Active
+SUP-010,Demo Supplier 10 Logistics,Machinery,Assiut,+201170000010,demo.supplier10@example.test,Cash on delivery,Active
+SUP-011,Demo Supplier 11 Equipment,Machinery,Beheira,+201170000011,demo.supplier11@example.test,60 days,Active
+SUP-012,Demo Supplier 12 Lubricants,Spares,Sharqia,+201170000012,demo.supplier12@example.test,60 days,Active
+SUP-013,Demo Supplier 13 Equipment,Spares,Dakahlia,+201170000013,demo.supplier13@example.test,30 days,Active
+SUP-014,Demo Supplier 14 Parts,Machinery,Dakahlia,+201170000014,demo.supplier14@example.test,30 days,Active
+SUP-015,Demo Supplier 15 Logistics,Transport,Cairo,+201170000015,demo.supplier15@example.test,30 days,Active

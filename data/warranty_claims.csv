@@ -1,0 +1,25 @@
+﻿claim_id,machine_id,customer_id,opened_date,issue,claim_status,manufacturer,estimated_claim_egp,resolution_date
+WAR-0001,MCH-0013,CUS-0030,2026-07-14,Oil pressure sensor,Approved,Zoomlion,4750,
+WAR-0002,MCH-0041,CUS-0038,2026-09-25,Transmission noise,Approved,Zoomlion,14350,
+WAR-0003,MCH-0026,CUS-0023,2026-05-29,Oil pressure sensor,Closed,Zoomlion,20750,2026-07-04
+WAR-0004,MCH-0020,CUS-0011,2026-05-02,Transmission noise,Rejected,Zoomlion,11600,
+WAR-0005,MCH-0001,CUS-0013,2026-10-02,Transmission noise,Under Review,Zoomlion,20400,
+WAR-0006,MCH-0050,CUS-0041,2026-06-08,Transmission noise,Approved,Zoomlion,20250,
+WAR-0007,MCH-0048,CUS-0028,2026-10-11,Starting fault,Rejected,Zoomlion,21350,
+WAR-0008,MCH-0048,CUS-0028,2026-06-07,Oil pressure sensor,Closed,Zoomlion,8700,2026-07-13
+WAR-0009,MCH-0004,CUS-0020,2026-07-12,Hydraulic leak,Closed,Zoomlion,21200,2026-08-16
+WAR-0010,MCH-0042,CUS-0009,2026-09-20,Starting fault,Under Review,Zoomlion,15550,
+WAR-0011,MCH-0021,CUS-0040,2026-04-04,Starting fault,Closed,Zoomlion,3300,2026-05-03
+WAR-0012,MCH-0021,CUS-0040,2026-04-28,Oil pressure sensor,Closed,Zoomlion,7300,2026-05-21
+WAR-0013,MCH-0002,CUS-0035,2026-08-24,Oil pressure sensor,Rejected,Zoomlion,16400,
+WAR-0014,MCH-0004,CUS-0020,2026-09-09,Electrical fault,Closed,Zoomlion,21250,2026-10-11
+WAR-0015,MCH-0039,CUS-0027,2026-04-09,Oil pressure sensor,Approved,Zoomlion,9350,
+WAR-0016,MCH-0011,CUS-0036,2026-09-29,Oil pressure sensor,Submitted,Zoomlion,22050,
+WAR-0017,MCH-0005,CUS-0011,2026-06-18,Electrical fault,Submitted,Zoomlion,15200,
+WAR-0018,MCH-0002,CUS-0035,2026-10-11,Oil pressure sensor,Approved,Zoomlion,16150,
+WAR-0019,MCH-0026,CUS-0023,2026-07-22,Electrical fault,Under Review,Zoomlion,15650,
+WAR-0020,MCH-0033,CUS-0042,2026-04-12,Starting fault,Under Review,Zoomlion,7250,
+WAR-0021,MCH-0018,CUS-0014,2026-08-29,Electrical fault,Under Review,Zoomlion,10350,
+WAR-0022,MCH-0039,CUS-0027,2026-04-23,Hydraulic leak,Under Review,Zoomlion,16300,
+WAR-0023,MCH-0025,CUS-0044,2026-07-12,Oil pressure sensor,Closed,Zoomlion,7800,2026-08-09
+WAR-0024,MCH-0043,CUS-0003,2026-09-17,Oil pressure sensor,Approved,Zoomlion,3650,

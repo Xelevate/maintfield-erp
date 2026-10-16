@@ -1,0 +1,13 @@
+﻿employee_id,employee_name,department,job_title,hire_date,monthly_salary_egp,employment_status,manager_id
+EMP-001,Demo Employee 01,Management,General Manager,2025-10-11,32200,Active,
+EMP-002,Demo Employee 02,Sales,Sales Executive,2025-10-21,17300,Active,EMP-001
+EMP-003,Demo Employee 03,Sales,Key Account Specialist,2025-10-31,16700,Active,EMP-001
+EMP-004,Demo Employee 04,Service,Field Technician,2025-11-10,16900,Active,EMP-001
+EMP-005,Demo Employee 05,Service,Senior Mechanic,2025-11-20,19450,Active,EMP-001
+EMP-006,Demo Employee 06,Service,Workshop Technician,2025-11-30,12800,Active,EMP-001
+EMP-007,Demo Employee 07,Operations,Operations Coordinator,2025-12-10,13700,Active,EMP-001
+EMP-008,Demo Employee 08,Finance,Accountant,2025-12-20,20250,Active,EMP-001
+EMP-009,Demo Employee 09,Procurement,Buyer,2025-12-30,15150,Active,EMP-001
+EMP-010,Demo Employee 10,Warehouse,Storekeeper,2026-01-09,12800,Active,EMP-001
+EMP-011,Demo Employee 11,HR,HR Administrator,2026-01-19,12700,Active,EMP-001
+EMP-012,Demo Employee 12,Sales,Parts Sales Representative,2026-01-29,12000,Active,EMP-001

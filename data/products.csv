@@ -1,0 +1,41 @@
+﻿product_id,sku,product_name,category,brand,unit,unit_price_egp,cost_price_egp,reorder_point,status
+PRD-001,MF-TR-001,Zoomlion 49 HP 2WD Tractor,Tractor,Zoomlion,unit,520000,423000,1,Active
+PRD-002,MF-TR-002,Zoomlion 60 HP 4WD Tractor,Tractor,Zoomlion,unit,680000,540000,1,Active
+PRD-003,MF-TR-003,Zoomlion 75 HP 4WD Tractor,Tractor,Zoomlion,unit,925000,741000,1,Active
+PRD-004,MF-TR-004,Zoomlion 90 HP 4WD Tractor,Tractor,Zoomlion,unit,1170000,942000,1,Active
+PRD-005,MF-TR-005,Zoomlion 110 HP 4WD Tractor,Tractor,Zoomlion,unit,1520000,1220000,1,Active
+PRD-006,MF-TR-006,Zoomlion 130 HP 4WD Tractor,Tractor,Zoomlion,unit,1890000,1510000,1,Active
+PRD-007,MF-TR-007,Zoomlion 150 HP 4WD Tractor,Tractor,Zoomlion,unit,2280000,1820000,1,Active
+PRD-008,MF-IM-008,3-Disc Plough,Implement,Multi-brand,unit,130300,100331,2,Active
+PRD-009,MF-IM-009,4-Disc Plough,Implement,Multi-brand,unit,114700,88319,2,Active
+PRD-010,MF-IM-010,Rotary Harrow 2.1m,Implement,Multi-brand,unit,97600,75152,2,Active
+PRD-011,MF-IM-011,Field Cultivator,Implement,Multi-brand,unit,119900,92323,2,Active
+PRD-012,MF-IM-012,Disc Harrow 24-Blade,Implement,Multi-brand,unit,92700,71379,2,Active
+PRD-013,MF-IM-013,Seed Drill,Implement,Multi-brand,unit,35100,27027,2,Active
+PRD-014,MF-IM-014,Rear Mounted Ripper,Implement,Multi-brand,unit,98500,75845,2,Active
+PRD-015,MF-IM-015,Land Leveller,Implement,Multi-brand,unit,148900,114653,2,Active
+PRD-016,MF-SP-016,Engine Oil Filter,Spare Part,Multi-brand,unit,6600,4686,7,Active
+PRD-017,MF-SP-017,Fuel Filter Element,Spare Part,Multi-brand,unit,11950,8484,7,Active
+PRD-018,MF-SP-018,Hydraulic Return Filter,Spare Part,Multi-brand,unit,2150,1526,7,Active
+PRD-019,MF-SP-019,Air Filter Primary,Spare Part,Multi-brand,unit,5950,4224,7,Active
+PRD-020,MF-SP-020,V-Belt,Spare Part,Multi-brand,unit,11550,8200,7,Active
+PRD-021,MF-SP-021,Starter Motor,Spare Part,Multi-brand,unit,11500,8165,7,Active
+PRD-022,MF-SP-022,Hydraulic Pump Seal Kit,Spare Part,Multi-brand,unit,1150,816,7,Active
+PRD-023,MF-SP-023,Tractor Radiator Hose,Spare Part,Multi-brand,unit,12900,9159,7,Active
+PRD-024,MF-SP-024,Alternator Belt,Spare Part,Multi-brand,unit,6350,4508,7,Active
+PRD-025,MF-SP-025,Clutch Disc,Spare Part,Multi-brand,unit,1200,852,7,Active
+PRD-026,MF-SP-026,Gearbox Bearing,Spare Part,Multi-brand,unit,11100,7881,7,Active
+PRD-027,MF-SP-027,Brake Pad Set,Spare Part,Multi-brand,unit,10450,7419,7,Active
+PRD-028,MF-SP-028,Engine Gasket Kit,Spare Part,Multi-brand,unit,11900,8449,7,Active
+PRD-029,MF-SP-029,Hydraulic Hose 2m,Spare Part,Multi-brand,unit,8100,5751,7,Active
+PRD-030,MF-SP-030,Water Pump,Spare Part,Multi-brand,unit,3250,2307,7,Active
+PRD-031,MF-SP-031,Diesel Injector,Spare Part,Multi-brand,unit,10850,7703,7,Active
+PRD-032,MF-SP-032,PTO Universal Joint,Spare Part,Multi-brand,unit,3300,2343,7,Active
+PRD-033,MF-SP-033,Wheel Hub Seal,Spare Part,Multi-brand,unit,14250,10117,7,Active
+PRD-034,MF-SP-034,Tractor Battery,Spare Part,Multi-brand,unit,7950,5644,7,Active
+PRD-035,MF-SP-035,PTO Shaft,Spare Part,Multi-brand,unit,1450,1029,7,Active
+PRD-036,MF-OL-036,FUCHS Agricultural Engine Oil 20L,Oil & Lubricant,FUCHS,pack,8550,6669,8,Active
+PRD-037,MF-OL-037,FUCHS Hydraulic Fluid 20L,Oil & Lubricant,FUCHS,pack,6050,4719,8,Active
+PRD-038,MF-OL-038,FUCHS Gear Oil 20L,Oil & Lubricant,FUCHS,pack,5800,4524,8,Active
+PRD-039,MF-OL-039,FUCHS Multi-Purpose Grease 5kg,Oil & Lubricant,FUCHS,pack,6350,4953,8,Active
+PRD-040,MF-OL-040,FUCHS Transmission Oil 20L,Oil & Lubricant,FUCHS,pack,4050,3159,8,Active

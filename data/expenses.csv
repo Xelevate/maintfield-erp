@@ -1,0 +1,151 @@
+﻿expense_id,expense_date,category,description,amount_egp,department,supplier_id,payment_method,approved_by
+EXP-00001,2026-09-25,Travel,Demo travel operating expense #1,18800,Warehouse,SUP-012,Bank Transfer,EMP-001
+EXP-00002,2026-09-10,Marketing,Demo marketing operating expense #2,20000,Operations,SUP-008,Cash,EMP-001
+EXP-00003,2026-04-29,Payroll,Demo payroll operating expense #3,34650,Sales,SUP-008,Company Card,EMP-001
+EXP-00004,2026-10-10,Utilities,Demo utilities operating expense #4,3200,Sales,SUP-002,Bank Transfer,EMP-001
+EXP-00005,2026-09-03,Tools & Workshop,Demo tools & workshop operating expense #5,22950,Warehouse,SUP-013,Bank Transfer,EMP-001
+EXP-00006,2026-05-28,Tools & Workshop,Demo tools & workshop operating expense #6,6550,Operations,SUP-003,Cash,EMP-001
+EXP-00007,2026-03-24,Utilities,Demo utilities operating expense #7,6800,Sales,SUP-007,Bank Transfer,EMP-001
+EXP-00008,2026-08-23,Marketing,Demo marketing operating expense #8,23700,Operations,SUP-013,Bank Transfer,EMP-001
+EXP-00009,2026-04-19,Payroll,Demo payroll operating expense #9,7850,Admin,SUP-003,Cash,EMP-001
+EXP-00010,2026-08-25,Rent,Demo rent operating expense #10,22000,Admin,SUP-008,Company Card,EMP-001
+EXP-00011,2026-02-03,Rent,Demo rent operating expense #11,14000,Warehouse,SUP-005,Bank Transfer,EMP-001
+EXP-00012,2026-03-10,Travel,Demo travel operating expense #12,23600,Sales,SUP-013,Company Card,EMP-001
+EXP-00013,2026-05-24,Office & Software,Demo office & software operating expense #13,13050,Admin,SUP-007,Cash,EMP-001
+EXP-00014,2026-07-21,Payroll,Demo payroll operating expense #14,15500,Service,SUP-013,Bank Transfer,EMP-001
+EXP-00015,2026-02-02,Payroll,Demo payroll operating expense #15,1950,Admin,SUP-006,Bank Transfer,EMP-001
+EXP-00016,2026-04-08,Marketing,Demo marketing operating expense #16,19900,Warehouse,SUP-012,Cash,EMP-001
+EXP-00017,2026-04-05,Freight,Demo freight operating expense #17,33450,Admin,SUP-010,Company Card,EMP-001
+EXP-00018,2026-05-16,Payroll,Demo payroll operating expense #18,9400,Service,SUP-007,Bank Transfer,EMP-001
+EXP-00019,2026-05-10,Freight,Demo freight operating expense #19,10000,Operations,SUP-013,Company Card,EMP-001
+EXP-00020,2026-06-16,Freight,Demo freight operating expense #20,22550,Service,SUP-014,Cash,EMP-001
+EXP-00021,2026-09-18,Vehicle & Fuel,Demo vehicle & fuel operating expense #21,27950,Service,SUP-009,Bank Transfer,EMP-001
+EXP-00022,2026-04-14,Rent,Demo rent operating expense #22,7900,Admin,SUP-002,Company Card,EMP-001
+EXP-00023,2026-05-22,Freight,Demo freight operating expense #23,32950,Operations,SUP-003,Bank Transfer,EMP-001
+EXP-00024,2026-05-15,Office & Software,Demo office & software operating expense #24,22150,Warehouse,SUP-006,Cash,EMP-001
+EXP-00025,2026-03-05,Marketing,Demo marketing operating expense #25,28250,Operations,SUP-006,Company Card,EMP-001
+EXP-00026,2026-05-29,Tools & Workshop,Demo tools & workshop operating expense #26,6450,Operations,SUP-011,Cash,EMP-001
+EXP-00027,2026-09-25,Travel,Demo travel operating expense #27,8650,Admin,SUP-012,Bank Transfer,EMP-001
+EXP-00028,2026-02-06,Payroll,Demo payroll operating expense #28,30700,Sales,SUP-011,Cash,EMP-001
+EXP-00029,2026-03-28,Travel,Demo travel operating expense #29,15000,Warehouse,SUP-006,Cash,EMP-001
+EXP-00030,2026-09-10,Marketing,Demo marketing operating expense #30,14150,Service,SUP-009,Company Card,EMP-001
+EXP-00031,2026-07-09,Subcontractors,Demo subcontractors operating expense #31,15000,Warehouse,SUP-002,Company Card,EMP-001
+EXP-00032,2026-09-13,Payroll,Demo payroll operating expense #32,12800,Admin,SUP-006,Company Card,EMP-001
+EXP-00033,2026-03-23,Subcontractors,Demo subcontractors operating expense #33,21250,Sales,SUP-002,Company Card,EMP-001
+EXP-00034,2026-05-18,Subcontractors,Demo subcontractors operating expense #34,14700,Warehouse,SUP-003,Company Card,EMP-001
+EXP-00035,2026-06-08,Payroll,Demo payroll operating expense #35,21000,Operations,SUP-001,Cash,EMP-001
+EXP-00036,2026-03-22,Utilities,Demo utilities operating expense #36,5600,Operations,SUP-002,Company Card,EMP-001
+EXP-00037,2026-05-28,Payroll,Demo payroll operating expense #37,31000,Service,SUP-001,Company Card,EMP-001
+EXP-00038,2026-09-04,Marketing,Demo marketing operating expense #38,33850,Operations,SUP-013,Bank Transfer,EMP-001
+EXP-00039,2026-02-04,Rent,Demo rent operating expense #39,20300,Sales,SUP-007,Bank Transfer,EMP-001
+EXP-00040,2026-05-05,Rent,Demo rent operating expense #40,6050,Operations,SUP-001,Bank Transfer,EMP-001
+EXP-00041,2026-05-18,Utilities,Demo utilities operating expense #41,22750,Operations,SUP-001,Bank Transfer,EMP-001
+EXP-00042,2026-07-24,Marketing,Demo marketing operating expense #42,9900,Admin,SUP-015,Cash,EMP-001
+EXP-00043,2026-04-14,Rent,Demo rent operating expense #43,28200,Warehouse,SUP-005,Bank Transfer,EMP-001
+EXP-00044,2026-02-05,Utilities,Demo utilities operating expense #44,18400,Sales,SUP-009,Bank Transfer,EMP-001
+EXP-00045,2026-07-14,Vehicle & Fuel,Demo vehicle & fuel operating expense #45,14050,Operations,SUP-007,Cash,EMP-001
+EXP-00046,2026-05-09,Payroll,Demo payroll operating expense #46,10350,Operations,SUP-013,Bank Transfer,EMP-001
+EXP-00047,2026-05-28,Vehicle & Fuel,Demo vehicle & fuel operating expense #47,38750,Service,SUP-002,Bank Transfer,EMP-001
+EXP-00048,2026-05-05,Rent,Demo rent operating expense #48,31850,Operations,SUP-009,Company Card,EMP-001
+EXP-00049,2026-07-25,Marketing,Demo marketing operating expense #49,30300,Sales,SUP-013,Company Card,EMP-001
+EXP-00050,2026-07-01,Payroll,Demo payroll operating expense #50,38500,Admin,SUP-004,Bank Transfer,EMP-001
+EXP-00051,2026-06-07,Tools & Workshop,Demo tools & workshop operating expense #51,35650,Admin,SUP-013,Company Card,EMP-001
+EXP-00052,2026-06-23,Tools & Workshop,Demo tools & workshop operating expense #52,29750,Sales,SUP-011,Bank Transfer,EMP-001
+EXP-00053,2026-06-20,Vehicle & Fuel,Demo vehicle & fuel operating expense #53,32450,Sales,SUP-008,Company Card,EMP-001
+EXP-00054,2026-07-23,Tools & Workshop,Demo tools & workshop operating expense #54,10750,Operations,SUP-013,Cash,EMP-001
+EXP-00055,2026-10-08,Office & Software,Demo office & software operating expense #55,1250,Operations,SUP-013,Cash,EMP-001
+EXP-00056,2026-08-02,Marketing,Demo marketing operating expense #56,6600,Admin,SUP-011,Cash,EMP-001
+EXP-00057,2026-04-19,Subcontractors,Demo subcontractors operating expense #57,3300,Service,SUP-011,Company Card,EMP-001
+EXP-00058,2026-03-12,Marketing,Demo marketing operating expense #58,19250,Sales,SUP-012,Cash,EMP-001
+EXP-00059,2026-08-17,Payroll,Demo payroll operating expense #59,28500,Warehouse,SUP-002,Cash,EMP-001
+EXP-00060,2026-03-09,Office & Software,Demo office & software operating expense #60,28350,Warehouse,SUP-008,Cash,EMP-001
+EXP-00061,2026-09-15,Tools & Workshop,Demo tools & workshop operating expense #61,27550,Warehouse,SUP-006,Company Card,EMP-001
+EXP-00062,2026-09-17,Travel,Demo travel operating expense #62,32200,Service,SUP-011,Company Card,EMP-001
+EXP-00063,2026-08-22,Freight,Demo freight operating expense #63,14600,Operations,SUP-005,Bank Transfer,EMP-001
+EXP-00064,2026-05-04,Payroll,Demo payroll operating expense #64,29400,Service,SUP-010,Bank Transfer,EMP-001
+EXP-00065,2026-07-27,Vehicle & Fuel,Demo vehicle & fuel operating expense #65,34050,Admin,SUP-015,Bank Transfer,EMP-001
+EXP-00066,2026-05-12,Vehicle & Fuel,Demo vehicle & fuel operating expense #66,19800,Admin,SUP-013,Bank Transfer,EMP-001
+EXP-00067,2026-09-10,Tools & Workshop,Demo tools & workshop operating expense #67,32950,Warehouse,SUP-002,Cash,EMP-001
+EXP-00068,2026-09-16,Rent,Demo rent operating expense #68,28000,Operations,SUP-005,Company Card,EMP-001
+EXP-00069,2026-01-31,Freight,Demo freight operating expense #69,37900,Admin,SUP-005,Company Card,EMP-001
+EXP-00070,2026-04-25,Freight,Demo freight operating expense #70,21150,Admin,SUP-015,Company Card,EMP-001
+EXP-00071,2026-02-13,Subcontractors,Demo subcontractors operating expense #71,11900,Warehouse,SUP-002,Bank Transfer,EMP-001
+EXP-00072,2026-05-21,Marketing,Demo marketing operating expense #72,3750,Sales,SUP-014,Cash,EMP-001
+EXP-00073,2026-08-21,Subcontractors,Demo subcontractors operating expense #73,14350,Operations,SUP-011,Company Card,EMP-001
+EXP-00074,2026-02-26,Vehicle & Fuel,Demo vehicle & fuel operating expense #74,29050,Warehouse,SUP-011,Cash,EMP-001
+EXP-00075,2026-05-07,Rent,Demo rent operating expense #75,16500,Admin,SUP-007,Bank Transfer,EMP-001
+EXP-00076,2026-06-27,Subcontractors,Demo subcontractors operating expense #76,36650,Warehouse,SUP-012,Cash,EMP-001
+EXP-00077,2026-02-01,Payroll,Demo payroll operating expense #77,29450,Sales,SUP-006,Cash,EMP-001
+EXP-00078,2026-06-11,Utilities,Demo utilities operating expense #78,31700,Sales,SUP-012,Bank Transfer,EMP-001
+EXP-00079,2026-06-30,Subcontractors,Demo subcontractors operating expense #79,6900,Operations,SUP-014,Company Card,EMP-001
+EXP-00080,2026-03-18,Marketing,Demo marketing operating expense #80,5950,Operations,SUP-009,Company Card,EMP-001
+EXP-00081,2026-02-05,Freight,Demo freight operating expense #81,5450,Service,SUP-010,Cash,EMP-001
+EXP-00082,2026-06-04,Payroll,Demo payroll operating expense #82,10850,Operations,SUP-003,Company Card,EMP-001
+EXP-00083,2026-09-18,Marketing,Demo marketing operating expense #83,36650,Admin,SUP-015,Cash,EMP-001
+EXP-00084,2026-03-03,Marketing,Demo marketing operating expense #84,36600,Admin,SUP-002,Company Card,EMP-001
+EXP-00085,2026-05-08,Freight,Demo freight operating expense #85,34100,Sales,SUP-014,Cash,EMP-001
+EXP-00086,2026-02-26,Utilities,Demo utilities operating expense #86,25450,Service,SUP-008,Company Card,EMP-001
+EXP-00087,2026-08-11,Payroll,Demo payroll operating expense #87,3500,Warehouse,SUP-012,Bank Transfer,EMP-001
+EXP-00088,2026-05-01,Subcontractors,Demo subcontractors operating expense #88,4000,Service,SUP-015,Cash,EMP-001
+EXP-00089,2026-03-26,Vehicle & Fuel,Demo vehicle & fuel operating expense #89,2200,Operations,SUP-012,Cash,EMP-001
+EXP-00090,2026-05-25,Vehicle & Fuel,Demo vehicle & fuel operating expense #90,35600,Operations,SUP-009,Company Card,EMP-001
+EXP-00091,2026-06-22,Payroll,Demo payroll operating expense #91,33000,Admin,SUP-015,Cash,EMP-001
+EXP-00092,2026-08-30,Rent,Demo rent operating expense #92,22400,Admin,SUP-010,Company Card,EMP-001
+EXP-00093,2026-09-16,Office & Software,Demo office & software operating expense #93,18600,Admin,SUP-014,Bank Transfer,EMP-001
+EXP-00094,2026-03-16,Vehicle & Fuel,Demo vehicle & fuel operating expense #94,25600,Operations,SUP-014,Bank Transfer,EMP-001
+EXP-00095,2026-09-07,Subcontractors,Demo subcontractors operating expense #95,32450,Service,SUP-005,Bank Transfer,EMP-001
+EXP-00096,2026-04-15,Vehicle & Fuel,Demo vehicle & fuel operating expense #96,30400,Admin,SUP-006,Company Card,EMP-001
+EXP-00097,2026-03-26,Tools & Workshop,Demo tools & workshop operating expense #97,4950,Warehouse,SUP-004,Company Card,EMP-001
+EXP-00098,2026-05-23,Office & Software,Demo office & software operating expense #98,23200,Warehouse,SUP-012,Cash,EMP-001
+EXP-00099,2026-05-29,Vehicle & Fuel,Demo vehicle & fuel operating expense #99,9050,Warehouse,SUP-012,Company Card,EMP-001
+EXP-00100,2026-04-12,Travel,Demo travel operating expense #100,30650,Sales,SUP-010,Bank Transfer,EMP-001
+EXP-00101,2026-06-28,Rent,Demo rent operating expense #101,19200,Service,SUP-005,Company Card,EMP-001
+EXP-00102,2026-03-04,Tools & Workshop,Demo tools & workshop operating expense #102,38750,Operations,SUP-012,Bank Transfer,EMP-001
+EXP-00103,2026-08-11,Payroll,Demo payroll operating expense #103,16250,Warehouse,SUP-006,Bank Transfer,EMP-001
+EXP-00104,2026-09-18,Tools & Workshop,Demo tools & workshop operating expense #104,25650,Sales,SUP-012,Company Card,EMP-001
+EXP-00105,2026-05-17,Office & Software,Demo office & software operating expense #105,33500,Service,SUP-003,Company Card,EMP-001
+EXP-00106,2026-07-11,Travel,Demo travel operating expense #106,16300,Admin,SUP-010,Company Card,EMP-001
+EXP-00107,2026-05-11,Marketing,Demo marketing operating expense #107,21000,Operations,SUP-004,Bank Transfer,EMP-001
+EXP-00108,2026-07-17,Subcontractors,Demo subcontractors operating expense #108,25350,Operations,SUP-015,Cash,EMP-001
+EXP-00109,2026-09-02,Office & Software,Demo office & software operating expense #109,5450,Admin,SUP-013,Company Card,EMP-001
+EXP-00110,2026-03-18,Tools & Workshop,Demo tools & workshop operating expense #110,12000,Admin,SUP-010,Cash,EMP-001
+EXP-00111,2026-05-24,Travel,Demo travel operating expense #111,3600,Sales,SUP-003,Bank Transfer,EMP-001
+EXP-00112,2026-02-27,Tools & Workshop,Demo tools & workshop operating expense #112,12200,Service,SUP-004,Bank Transfer,EMP-001
+EXP-00113,2026-05-11,Utilities,Demo utilities operating expense #113,27650,Admin,SUP-015,Company Card,EMP-001
+EXP-00114,2026-05-27,Payroll,Demo payroll operating expense #114,18550,Operations,SUP-003,Bank Transfer,EMP-001
+EXP-00115,2026-08-10,Utilities,Demo utilities operating expense #115,36950,Service,SUP-003,Bank Transfer,EMP-001
+EXP-00116,2026-02-25,Payroll,Demo payroll operating expense #116,10050,Operations,SUP-005,Company Card,EMP-001
+EXP-00117,2026-05-23,Utilities,Demo utilities operating expense #117,30000,Service,SUP-010,Company Card,EMP-001
+EXP-00118,2026-04-09,Office & Software,Demo office & software operating expense #118,24450,Operations,SUP-015,Company Card,EMP-001
+EXP-00119,2026-05-28,Travel,Demo travel operating expense #119,12050,Warehouse,SUP-004,Company Card,EMP-001
+EXP-00120,2026-07-02,Marketing,Demo marketing operating expense #120,20400,Admin,SUP-010,Bank Transfer,EMP-001
+EXP-00121,2026-05-12,Payroll,Demo payroll operating expense #121,10700,Admin,SUP-014,Company Card,EMP-001
+EXP-00122,2026-03-23,Payroll,Demo payroll operating expense #122,12600,Service,SUP-007,Bank Transfer,EMP-001
+EXP-00123,2026-03-22,Rent,Demo rent operating expense #123,13200,Warehouse,SUP-003,Company Card,EMP-001
+EXP-00124,2026-10-08,Utilities,Demo utilities operating expense #124,26700,Admin,SUP-005,Company Card,EMP-001
+EXP-00125,2026-06-26,Tools & Workshop,Demo tools & workshop operating expense #125,32350,Admin,SUP-012,Cash,EMP-001
+EXP-00126,2026-08-19,Vehicle & Fuel,Demo vehicle & fuel operating expense #126,25350,Sales,SUP-005,Bank Transfer,EMP-001
+EXP-00127,2026-06-18,Marketing,Demo marketing operating expense #127,2500,Admin,SUP-009,Cash,EMP-001
+EXP-00128,2026-07-02,Utilities,Demo utilities operating expense #128,7300,Operations,SUP-005,Cash,EMP-001
+EXP-00129,2026-08-10,Utilities,Demo utilities operating expense #129,30400,Operations,SUP-001,Cash,EMP-001
+EXP-00130,2026-07-12,Tools & Workshop,Demo tools & workshop operating expense #130,1850,Sales,SUP-004,Bank Transfer,EMP-001
+EXP-00131,2026-04-01,Subcontractors,Demo subcontractors operating expense #131,25550,Service,SUP-011,Bank Transfer,EMP-001
+EXP-00132,2026-02-23,Travel,Demo travel operating expense #132,36450,Admin,SUP-003,Cash,EMP-001
+EXP-00133,2026-05-29,Office & Software,Demo office & software operating expense #133,8750,Warehouse,SUP-001,Company Card,EMP-001
+EXP-00134,2026-07-14,Office & Software,Demo office & software operating expense #134,38050,Admin,SUP-010,Company Card,EMP-001
+EXP-00135,2026-06-29,Subcontractors,Demo subcontractors operating expense #135,1300,Service,SUP-007,Bank Transfer,EMP-001
+EXP-00136,2026-09-10,Travel,Demo travel operating expense #136,12200,Service,SUP-010,Bank Transfer,EMP-001
+EXP-00137,2026-01-30,Marketing,Demo marketing operating expense #137,25350,Sales,SUP-009,Company Card,EMP-001
+EXP-00138,2026-10-11,Subcontractors,Demo subcontractors operating expense #138,10750,Operations,SUP-006,Bank Transfer,EMP-001
+EXP-00139,2026-06-21,Travel,Demo travel operating expense #139,12450,Operations,SUP-003,Company Card,EMP-001
+EXP-00140,2026-02-23,Rent,Demo rent operating expense #140,5750,Operations,SUP-015,Cash,EMP-001
+EXP-00141,2026-05-09,Subcontractors,Demo subcontractors operating expense #141,37750,Operations,SUP-004,Bank Transfer,EMP-001
+EXP-00142,2026-02-14,Freight,Demo freight operating expense #142,27000,Admin,SUP-014,Company Card,EMP-001
+EXP-00143,2026-05-25,Freight,Demo freight operating expense #143,10000,Sales,SUP-009,Bank Transfer,EMP-001
+EXP-00144,2026-07-28,Rent,Demo rent operating expense #144,35300,Service,SUP-010,Company Card,EMP-001
+EXP-00145,2026-05-19,Travel,Demo travel operating expense #145,24200,Admin,SUP-015,Cash,EMP-001
+EXP-00146,2026-04-03,Payroll,Demo payroll operating expense #146,34450,Warehouse,SUP-009,Bank Transfer,EMP-001
+EXP-00147,2026-08-23,Freight,Demo freight operating expense #147,27950,Service,SUP-008,Company Card,EMP-001
+EXP-00148,2026-07-04,Tools & Workshop,Demo tools & workshop operating expense #148,11950,Admin,SUP-011,Company Card,EMP-001
+EXP-00149,2026-02-03,Vehicle & Fuel,Demo vehicle & fuel operating expense #149,36500,Warehouse,SUP-014,Company Card,EMP-001
+EXP-00150,2026-01-24,Utilities,Demo utilities operating expense #150,8150,Operations,SUP-015,Bank Transfer,EMP-001

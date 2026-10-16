@@ -1,0 +1,19 @@
+﻿account_id,account_code,account_name,account_type,normal_balance,parent_code,status
+ACC-001,1000,Assets,Header,Debit,,Active
+ACC-002,1100,Cash and Bank,Asset,Debit,1000,Active
+ACC-003,1200,Accounts Receivable,Asset,Debit,1000,Active
+ACC-004,1300,Inventory,Asset,Debit,1000,Active
+ACC-005,1400,Fixed Assets,Asset,Debit,1000,Active
+ACC-006,2000,Liabilities,Header,Credit,,Active
+ACC-007,2100,Accounts Payable,Liability,Credit,2000,Active
+ACC-008,2200,Accrued Payroll,Liability,Credit,2000,Active
+ACC-009,3000,Equity,Header,Credit,,Active
+ACC-010,3100,Owner Capital,Equity,Credit,3000,Active
+ACC-011,4000,Revenue,Header,Credit,,Active
+ACC-012,4100,Machinery Sales,Revenue,Credit,4000,Active
+ACC-013,4200,Service & Parts Revenue,Revenue,Credit,4000,Active
+ACC-014,5000,Costs,Header,Debit,,Active
+ACC-015,5100,Purchases / COGS,Expense,Debit,5000,Active
+ACC-016,5200,Operating Expenses,Expense,Debit,5000,Active
+ACC-017,5300,Payroll Expense,Expense,Debit,5000,Active
+ACC-018,5400,Vehicle & Fuel Expense,Expense,Debit,5000,Active

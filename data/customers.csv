@@ -1,0 +1,46 @@
+﻿customer_id,customer_name,segment,governorate,city,contact_person,phone,email,status,created_date
+CUS-0001,El Nile Agriculture 01,Equipment dealer,Sharqia,Farm district,Demo Contact 01,+201080000001,demo.client01@example.test,Active,2026-08-15
+CUS-0002,Green Delta Equipment 02,Equipment dealer,Monufia,Farm district,Demo Contact 02,+201080000002,demo.client02@example.test,Active,2026-07-20
+CUS-0003,Horizon Equipment 03,Individual grower,Minya,Central district,Demo Contact 03,+201080000003,demo.client03@example.test,Active,2026-01-30
+CUS-0004,Al Baraka Equipment 04,Individual grower,Ismailia,Industrial zone,Demo Contact 04,+201080000004,demo.client04@example.test,Active,2026-05-04
+CUS-0005,Harvest Gate Farms 05,Individual grower,Cairo,Industrial zone,Demo Contact 05,+201080000005,demo.client05@example.test,Active,2026-04-26
+CUS-0006,Al Wadi Trading 06,Agricultural cooperative,Sharqia,Farm district,Demo Contact 06,+201080000006,demo.client06@example.test,Active,2026-07-01
+CUS-0007,Sunrise Farms 07,Commercial farm,Monufia,Farm district,Demo Contact 07,+201080000007,demo.client07@example.test,Active,2026-01-29
+CUS-0008,Nile Valley Equipment 08,Individual grower,Minya,Industrial zone,Demo Contact 08,+201080000008,demo.client08@example.test,Active,2026-05-12
+CUS-0009,Golden Fields Farms 09,Individual grower,Ismailia,Central district,Demo Contact 09,+201080000009,demo.client09@example.test,Active,2026-05-20
+CUS-0010,Al Manar Trading 10,Agricultural contractor,Cairo,Industrial zone,Demo Contact 10,+201080000010,demo.client10@example.test,Active,2026-08-03
+CUS-0011,Fertile Land Farms 11,Agricultural cooperative,Sharqia,Industrial zone,Demo Contact 11,+201080000011,demo.client11@example.test,Prospect,2026-09-25
+CUS-0012,New Season Agriculture 12,Agricultural cooperative,Monufia,Farm district,Demo Contact 12,+201080000012,demo.client12@example.test,Active,2026-08-14
+CUS-0013,Delta Valley Equipment 13,Agricultural cooperative,Minya,Central district,Demo Contact 13,+201080000013,demo.client13@example.test,Active,2026-04-20
+CUS-0014,El Amal Equipment 14,Agricultural cooperative,Ismailia,Industrial zone,Demo Contact 14,+201080000014,demo.client14@example.test,Active,2026-08-23
+CUS-0015,Future Farms Trading 15,Equipment dealer,Cairo,Industrial zone,Demo Contact 15,+201080000015,demo.client15@example.test,Active,2026-09-28
+CUS-0016,El Nile Farms 16,Equipment dealer,Sharqia,East district,Demo Contact 16,+201080000016,demo.client16@example.test,Active,2026-10-09
+CUS-0017,Green Delta Cooperative 17,Agricultural contractor,Monufia,Industrial zone,Demo Contact 17,+201080000017,demo.client17@example.test,Active,2026-02-07
+CUS-0018,Horizon Cooperative 18,Commercial farm,Minya,Central district,Demo Contact 18,+201080000018,demo.client18@example.test,Active,2026-09-05
+CUS-0019,Al Baraka Trading 19,Agricultural contractor,Ismailia,Industrial zone,Demo Contact 19,+201080000019,demo.client19@example.test,Active,2026-06-02
+CUS-0020,Harvest Gate Farms 20,Equipment dealer,Cairo,Farm district,Demo Contact 20,+201080000020,demo.client20@example.test,Prospect,2026-08-17
+CUS-0021,Al Wadi Cooperative 21,Agricultural cooperative,Sharqia,Industrial zone,Demo Contact 21,+201080000021,demo.client21@example.test,Active,2026-08-28
+CUS-0022,Sunrise Equipment 22,Individual grower,Monufia,East district,Demo Contact 22,+201080000022,demo.client22@example.test,Active,2026-04-17
+CUS-0023,Nile Valley Farms 23,Individual grower,Minya,Central district,Demo Contact 23,+201080000023,demo.client23@example.test,Active,2026-04-02
+CUS-0024,Golden Fields Cooperative 24,Equipment dealer,Ismailia,Industrial zone,Demo Contact 24,+201080000024,demo.client24@example.test,Active,2026-07-29
+CUS-0025,Al Manar Equipment 25,Agricultural contractor,Cairo,Farm district,Demo Contact 25,+201080000025,demo.client25@example.test,Active,2026-04-10
+CUS-0026,Fertile Land Farms 26,Agricultural contractor,Sharqia,Central district,Demo Contact 26,+201080000026,demo.client26@example.test,Prospect,2026-04-09
+CUS-0027,New Season Agriculture 27,Equipment dealer,Monufia,East district,Demo Contact 27,+201080000027,demo.client27@example.test,Active,2026-02-13
+CUS-0028,Delta Valley Cooperative 28,Individual grower,Minya,East district,Demo Contact 28,+201080000028,demo.client28@example.test,Active,2026-03-26
+CUS-0029,El Amal Cooperative 29,Commercial farm,Ismailia,Industrial zone,Demo Contact 29,+201080000029,demo.client29@example.test,Active,2026-02-17
+CUS-0030,Future Farms Cooperative 30,Agricultural cooperative,Cairo,Central district,Demo Contact 30,+201080000030,demo.client30@example.test,Active,2026-06-07
+CUS-0031,El Nile Trading 31,Agricultural cooperative,Sharqia,East district,Demo Contact 31,+201080000031,demo.client31@example.test,Active,2026-08-17
+CUS-0032,Green Delta Trading 32,Commercial farm,Monufia,Central district,Demo Contact 32,+201080000032,demo.client32@example.test,Active,2026-07-21
+CUS-0033,Horizon Trading 33,Individual grower,Minya,East district,Demo Contact 33,+201080000033,demo.client33@example.test,Prospect,2026-05-22
+CUS-0034,Al Baraka Farms 34,Agricultural contractor,Ismailia,Central district,Demo Contact 34,+201080000034,demo.client34@example.test,Active,2026-03-15
+CUS-0035,Harvest Gate Farms 35,Equipment dealer,Cairo,Industrial zone,Demo Contact 35,+201080000035,demo.client35@example.test,Active,2026-05-23
+CUS-0036,Al Wadi Trading 36,Commercial farm,Sharqia,Industrial zone,Demo Contact 36,+201080000036,demo.client36@example.test,Active,2026-08-14
+CUS-0037,Sunrise Cooperative 37,Agricultural cooperative,Monufia,Farm district,Demo Contact 37,+201080000037,demo.client37@example.test,Prospect,2026-09-15
+CUS-0038,Nile Valley Farms 38,Agricultural cooperative,Minya,Industrial zone,Demo Contact 38,+201080000038,demo.client38@example.test,Active,2026-05-17
+CUS-0039,Golden Fields Agriculture 39,Agricultural cooperative,Ismailia,Farm district,Demo Contact 39,+201080000039,demo.client39@example.test,Active,2026-02-27
+CUS-0040,Al Manar Agriculture 40,Agricultural contractor,Cairo,Farm district,Demo Contact 40,+201080000040,demo.client40@example.test,Active,2026-05-15
+CUS-0041,Fertile Land Farms 41,Agricultural cooperative,Sharqia,Central district,Demo Contact 41,+201080000041,demo.client41@example.test,Prospect,2026-02-22
+CUS-0042,New Season Cooperative 42,Individual grower,Monufia,East district,Demo Contact 42,+201080000042,demo.client42@example.test,Prospect,2026-03-14
+CUS-0043,Delta Valley Farms 43,Equipment dealer,Minya,Central district,Demo Contact 43,+201080000043,demo.client43@example.test,Active,2026-02-08
+CUS-0044,El Amal Farms 44,Agricultural contractor,Ismailia,Industrial zone,Demo Contact 44,+201080000044,demo.client44@example.test,Prospect,2026-09-29
+CUS-0045,Future Farms Trading 45,Individual grower,Cairo,Central district,Demo Contact 45,+201080000045,demo.client45@example.test,Active,2026-09-18

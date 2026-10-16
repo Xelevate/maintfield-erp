@@ -1,0 +1,40 @@
+﻿task_id,task_title,module,related_type,assigned_to,due_date,priority,status,notes
+TASK-0001,Review warranty claim,Service,Warranty,EMP-006,2026-11-13,Normal,Open,Fictional sample action item
+TASK-0002,Approve purchase order,Procurement,Purchase,EMP-008,2026-10-09,Normal,In Progress,Fictional sample action item
+TASK-0003,Follow up quotation,Sales,Quotation,EMP-012,2026-10-23,Normal,In Progress,Fictional sample action item
+TASK-0004,Renew maintenance contract,Service,Contract,EMP-002,2026-10-17,Normal,Done,Fictional sample action item
+TASK-0005,Update machine service history,Service,Machine,EMP-002,2026-09-30,High,Done,Fictional sample action item
+TASK-0006,Update machine service history,Service,Machine,EMP-002,2026-10-11,Normal,Open,Fictional sample action item
+TASK-0007,Follow up quotation,Sales,Quotation,EMP-007,2026-10-03,Low,Open,Fictional sample action item
+TASK-0008,Update machine service history,Service,Machine,EMP-006,2026-10-07,Low,Open,Fictional sample action item
+TASK-0009,Update machine service history,Service,Machine,EMP-008,2026-11-10,High,In Progress,Fictional sample action item
+TASK-0010,Collect due invoice,Finance,Receivables,EMP-001,2026-09-29,Low,Done,Fictional sample action item
+TASK-0011,Follow up quotation,Sales,Quotation,EMP-002,2026-10-10,Normal,Done,Fictional sample action item
+TASK-0012,Check low stock,Inventory,Stock,EMP-002,2026-11-03,High,Open,Fictional sample action item
+TASK-0013,Confirm site visit,Service,Visit,EMP-002,2026-11-13,Low,Open,Fictional sample action item
+TASK-0014,Renew maintenance contract,Service,Contract,EMP-002,2026-10-18,Low,In Progress,Fictional sample action item
+TASK-0015,Renew maintenance contract,Service,Contract,EMP-007,2026-10-18,Low,Done,Fictional sample action item
+TASK-0016,Approve purchase order,Procurement,Purchase,EMP-008,2026-11-09,High,Done,Fictional sample action item
+TASK-0017,Renew maintenance contract,Service,Contract,EMP-010,2026-11-06,Low,Done,Fictional sample action item
+TASK-0018,Confirm site visit,Service,Visit,EMP-009,2026-11-08,Normal,Done,Fictional sample action item
+TASK-0019,Renew maintenance contract,Service,Contract,EMP-007,2026-11-19,Normal,Open,Fictional sample action item
+TASK-0020,Confirm site visit,Service,Visit,EMP-008,2026-10-10,High,Open,Fictional sample action item
+TASK-0021,Approve purchase order,Procurement,Purchase,EMP-012,2026-10-12,Low,Open,Fictional sample action item
+TASK-0022,Renew maintenance contract,Service,Contract,EMP-003,2026-10-25,High,Done,Fictional sample action item
+TASK-0023,Approve purchase order,Procurement,Purchase,EMP-001,2026-10-26,Low,Open,Fictional sample action item
+TASK-0024,Check low stock,Inventory,Stock,EMP-005,2026-10-24,High,Open,Fictional sample action item
+TASK-0025,Check low stock,Inventory,Stock,EMP-011,2026-10-14,Normal,Open,Fictional sample action item
+TASK-0026,Renew maintenance contract,Service,Contract,EMP-009,2026-11-02,Low,Open,Fictional sample action item
+TASK-0027,Follow up quotation,Sales,Quotation,EMP-006,2026-10-31,Normal,In Progress,Fictional sample action item
+TASK-0028,Update machine service history,Service,Machine,EMP-009,2026-11-06,Low,In Progress,Fictional sample action item
+TASK-0029,Check low stock,Inventory,Stock,EMP-003,2026-11-07,Normal,Done,Fictional sample action item
+TASK-0030,Follow up quotation,Sales,Quotation,EMP-009,2026-11-15,Low,In Progress,Fictional sample action item
+TASK-0031,Approve purchase order,Procurement,Purchase,EMP-001,2026-09-30,Low,Open,Fictional sample action item
+TASK-0032,Check low stock,Inventory,Stock,EMP-006,2026-11-10,Low,In Progress,Fictional sample action item
+TASK-0033,Check low stock,Inventory,Stock,EMP-010,2026-11-10,Low,In Progress,Fictional sample action item
+TASK-0034,Collect due invoice,Finance,Receivables,EMP-011,2026-10-17,Low,In Progress,Fictional sample action item
+TASK-0035,Update machine service history,Service,Machine,EMP-002,2026-10-23,Normal,Done,Fictional sample action item
+TASK-0036,Renew maintenance contract,Service,Contract,EMP-002,2026-11-12,High,Done,Fictional sample action item
+TASK-0037,Confirm site visit,Service,Visit,EMP-010,2026-10-08,Low,Open,Fictional sample action item
+TASK-0038,Approve purchase order,Procurement,Purchase,EMP-001,2026-11-19,Low,Done,Fictional sample action item
+TASK-0039,Update machine service history,Service,Machine,EMP-002,2026-10-29,Normal,In Progress,Fictional sample action item
