@@ -1,0 +1,14 @@
+# Local environment and confidential credentials — do not commit any secrets
+.env
+.env.*
+!*.example
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+private_data/
+secret_data/

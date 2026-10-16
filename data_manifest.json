@@ -1,0 +1,467 @@
+{
+  "customers": {
+    "section": "CRM",
+    "description": "Farm operators, contractors, dealerships and cooperatives; all names and contacts fictional",
+    "columns": [
+      "customer_id",
+      "customer_name",
+      "segment",
+      "governorate",
+      "city",
+      "contact_person",
+      "phone",
+      "email",
+      "status",
+      "created_date"
+    ],
+    "primary_key": "customer_id",
+    "row_count": 45,
+    "file": "data/customers.csv"
+  },
+  "employees": {
+    "section": "HR",
+    "description": "Illustrative future team, not Maintfield actual headcount (profile lists two people)",
+    "columns": [
+      "employee_id",
+      "employee_name",
+      "department",
+      "job_title",
+      "hire_date",
+      "monthly_salary_egp",
+      "employment_status",
+      "manager_id"
+    ],
+    "primary_key": "employee_id",
+    "row_count": 12,
+    "file": "data/employees.csv"
+  },
+  "products": {
+    "section": "Inventory",
+    "description": "Zoomlion tractors (49–150 HP), implements, maintenance spares, FUCHS oils",
+    "columns": [
+      "product_id",
+      "sku",
+      "product_name",
+      "category",
+      "brand",
+      "unit",
+      "unit_price_egp",
+      "cost_price_egp",
+      "reorder_point",
+      "status"
+    ],
+    "primary_key": "product_id",
+    "row_count": 40,
+    "file": "data/products.csv"
+  },
+  "suppliers": {
+    "section": "Procurement",
+    "description": "Fictional vendors for order and cost tracking",
+    "columns": [
+      "supplier_id",
+      "supplier_name",
+      "category",
+      "governorate",
+      "phone",
+      "email",
+      "payment_terms",
+      "status"
+    ],
+    "primary_key": "supplier_id",
+    "row_count": 15,
+    "file": "data/suppliers.csv"
+  },
+  "leads": {
+    "section": "Sales",
+    "description": "Lead pipeline / potential sales value with probability and source",
+    "columns": [
+      "lead_id",
+      "customer_id",
+      "lead_source",
+      "product_interest",
+      "stage",
+      "probability_pct",
+      "estimated_value_egp",
+      "owner_id",
+      "created_date",
+      "expected_close_date"
+    ],
+    "primary_key": "lead_id",
+    "row_count": 65,
+    "file": "data/leads.csv"
+  },
+  "quotations": {
+    "section": "Sales",
+    "description": "Client quotes; each row is a quoted line for a product",
+    "columns": [
+      "quote_id",
+      "lead_id",
+      "customer_id",
+      "issue_date",
+      "valid_until",
+      "product_id",
+      "quantity",
+      "unit_price_egp",
+      "discount_pct",
+      "status"
+    ],
+    "primary_key": "quote_id",
+    "row_count": 54,
+    "file": "data/quotations.csv"
+  },
+  "sales_orders": {
+    "section": "Sales",
+    "description": "Confirmed equipment, implement and parts orders",
+    "columns": [
+      "sales_order_id",
+      "quote_id",
+      "customer_id",
+      "order_date",
+      "product_id",
+      "quantity",
+      "unit_price_egp",
+      "status",
+      "expected_delivery"
+    ],
+    "primary_key": "sales_order_id",
+    "row_count": 55,
+    "file": "data/sales_orders.csv"
+  },
+  "machines": {
+    "section": "Service",
+    "description": "Installed machine register with unique chassis numbers and service-hour tracking",
+    "columns": [
+      "machine_id",
+      "customer_id",
+      "chassis_number",
+      "brand",
+      "model",
+      "horsepower",
+      "governorate",
+      "delivery_date",
+      "operating_hours",
+      "warranty_expiry"
+    ],
+    "primary_key": "machine_id",
+    "row_count": 50,
+    "file": "data/machines.csv"
+  },
+  "maintenance_contracts": {
+    "section": "Service",
+    "description": "Annual maintenance agreements with visit allowance and contract lifecycle",
+    "columns": [
+      "contract_id",
+      "customer_id",
+      "start_date",
+      "end_date",
+      "coverage",
+      "annual_value_egp",
+      "visits_included",
+      "visits_completed",
+      "status"
+    ],
+    "primary_key": "contract_id",
+    "row_count": 35,
+    "file": "data/maintenance_contracts.csv"
+  },
+  "work_orders": {
+    "section": "Service",
+    "description": "Maintenance and breakdown jobs from farm report to signed completion",
+    "columns": [
+      "work_order_id",
+      "machine_id",
+      "customer_id",
+      "opened_date",
+      "service_type",
+      "priority",
+      "status",
+      "assigned_to",
+      "estimated_cost_egp",
+      "closed_date"
+    ],
+    "primary_key": "work_order_id",
+    "row_count": 114,
+    "file": "data/work_orders.csv"
+  },
+  "service_visits": {
+    "section": "Service",
+    "description": "On-site and workshop visits with technical report references",
+    "columns": [
+      "visit_id",
+      "work_order_id",
+      "visit_date",
+      "technician_id",
+      "site_type",
+      "hours_worked",
+      "parts_cost_egp",
+      "service_fee_egp",
+      "result",
+      "service_report_ref"
+    ],
+    "primary_key": "visit_id",
+    "row_count": 100,
+    "file": "data/service_visits.csv"
+  },
+  "service_parts": {
+    "section": "Service",
+    "description": "Parts issued against service work orders for job costing",
+    "columns": [
+      "issue_id",
+      "work_order_id",
+      "product_id",
+      "quantity",
+      "unit_cost_egp",
+      "unit_sale_price_egp",
+      "issue_date",
+      "technician_id"
+    ],
+    "primary_key": "issue_id",
+    "row_count": 90,
+    "file": "data/service_parts.csv"
+  },
+  "warranty_claims": {
+    "section": "Service",
+    "description": "Warranty support tied to machine/chassis records",
+    "columns": [
+      "claim_id",
+      "machine_id",
+      "customer_id",
+      "opened_date",
+      "issue",
+      "claim_status",
+      "manufacturer",
+      "estimated_claim_egp",
+      "resolution_date"
+    ],
+    "primary_key": "claim_id",
+    "row_count": 24,
+    "file": "data/warranty_claims.csv"
+  },
+  "purchase_orders": {
+    "section": "Procurement",
+    "description": "Supplier purchase orders and incoming stock commitments",
+    "columns": [
+      "purchase_order_id",
+      "supplier_id",
+      "product_id",
+      "order_date",
+      "quantity",
+      "unit_cost_egp",
+      "expected_date",
+      "status"
+    ],
+    "primary_key": "purchase_order_id",
+    "row_count": 64,
+    "file": "data/purchase_orders.csv"
+  },
+  "inventory": {
+    "section": "Inventory",
+    "description": "Warehouse quantities, reserved units and stock reorder alerts",
+    "columns": [
+      "inventory_id",
+      "product_id",
+      "warehouse",
+      "on_hand",
+      "reserved",
+      "reorder_point",
+      "last_count_date",
+      "bin_code"
+    ],
+    "primary_key": "inventory_id",
+    "row_count": 40,
+    "file": "data/inventory.csv"
+  },
+  "inventory_movements": {
+    "section": "Inventory",
+    "description": "Stock receipt, issue and transfer audit trail (demo snapshots, not roll-forward reconciled)",
+    "columns": [
+      "movement_id",
+      "product_id",
+      "warehouse",
+      "movement_date",
+      "quantity_delta",
+      "movement_type",
+      "reference",
+      "entered_by"
+    ],
+    "primary_key": "movement_id",
+    "row_count": 150,
+    "file": "data/inventory_movements.csv"
+  },
+  "invoices": {
+    "section": "Finance",
+    "description": "Sales and service invoices, status derived from demonstrative payment schedule",
+    "columns": [
+      "invoice_id",
+      "customer_id",
+      "related_id",
+      "invoice_date",
+      "due_date",
+      "revenue_category",
+      "amount_egp",
+      "status",
+      "reference"
+    ],
+    "primary_key": "invoice_id",
+    "row_count": 109,
+    "file": "data/invoices.csv"
+  },
+  "payments": {
+    "section": "Finance",
+    "description": "Payments received linked to invoices; not duplicate revenue",
+    "columns": [
+      "payment_id",
+      "invoice_id",
+      "customer_id",
+      "payment_date",
+      "amount_egp",
+      "method",
+      "reference",
+      "status"
+    ],
+    "primary_key": "payment_id",
+    "row_count": 85,
+    "file": "data/payments.csv"
+  },
+  "expenses": {
+    "section": "Finance",
+    "description": "Recorded illustrative operating expenses; includes illustrative payroll-related costs",
+    "columns": [
+      "expense_id",
+      "expense_date",
+      "category",
+      "description",
+      "amount_egp",
+      "department",
+      "supplier_id",
+      "payment_method",
+      "approved_by"
+    ],
+    "primary_key": "expense_id",
+    "row_count": 150,
+    "file": "data/expenses.csv"
+  },
+  "payroll": {
+    "section": "HR",
+    "description": "Simulated monthly salary records for fictional future headcount, NOT actual payroll",
+    "columns": [
+      "payroll_id",
+      "employee_id",
+      "payroll_period",
+      "base_salary_egp",
+      "allowances_egp",
+      "deductions_egp",
+      "net_pay_egp",
+      "payment_date",
+      "status"
+    ],
+    "primary_key": "payroll_id",
+    "row_count": 36,
+    "file": "data/payroll.csv"
+  },
+  "chart_of_accounts": {
+    "section": "Accounting",
+    "description": "Illustrative chart of accounts; parent header codes are non-posting accounts",
+    "columns": [
+      "account_id",
+      "account_code",
+      "account_name",
+      "account_type",
+      "normal_balance",
+      "parent_code",
+      "status"
+    ],
+    "primary_key": "account_id",
+    "row_count": 18,
+    "file": "data/chart_of_accounts.csv"
+  },
+  "journal_entries": {
+    "section": "Accounting",
+    "description": "Balanced synthetic double-entry examples; not posted from other source tabs",
+    "columns": [
+      "entry_line_id",
+      "journal_id",
+      "entry_date",
+      "account_code",
+      "debit_egp",
+      "credit_egp",
+      "reference",
+      "description"
+    ],
+    "primary_key": "entry_line_id",
+    "row_count": 240,
+    "file": "data/journal_entries.csv"
+  },
+  "cash_transactions": {
+    "section": "Finance",
+    "description": "Cash receipts and operating disbursements; includes expenses, does not separately repeat payroll",
+    "columns": [
+      "cash_id",
+      "transaction_date",
+      "direction",
+      "category",
+      "reference",
+      "amount_egp",
+      "cash_account",
+      "related_id"
+    ],
+    "primary_key": "cash_id",
+    "row_count": 235,
+    "file": "data/cash_transactions.csv"
+  },
+  "company_assets": {
+    "section": "Operations",
+    "description": "Company-owned fixed assets and maintenance equipment (fictional)",
+    "columns": [
+      "asset_id",
+      "asset_name",
+      "asset_type",
+      "acquired_date",
+      "purchase_cost_egp",
+      "location",
+      "condition",
+      "depreciation_years",
+      "custodian_id"
+    ],
+    "primary_key": "asset_id",
+    "row_count": 16,
+    "file": "data/company_assets.csv"
+  },
+  "documents": {
+    "section": "Documents",
+    "description": "Document register and metadata only; demonstration does not include real signed files",
+    "columns": [
+      "document_id",
+      "created_date",
+      "document_title",
+      "document_type",
+      "linked_module",
+      "linked_id",
+      "owner_id",
+      "expiry_date",
+      "document_url",
+      "status"
+    ],
+    "primary_key": "document_id",
+    "row_count": 77,
+    "file": "data/documents.csv"
+  },
+  "tasks": {
+    "section": "Operations",
+    "description": "Cross-team task reminders and follow-up deadlines",
+    "columns": [
+      "task_id",
+      "task_title",
+      "module",
+      "related_type",
+      "assigned_to",
+      "due_date",
+      "priority",
+      "status",
+      "notes"
+    ],
+    "primary_key": "task_id",
+    "row_count": 39,
+    "file": "data/tasks.csv"
+  }
+}
